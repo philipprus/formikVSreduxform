@@ -1,6 +1,6 @@
 # Redux-Form vs Formik
 
-### Redux Form
+### Redux Form (https://redux-form.com/8.2.2/docs/gettingstarted.md/)
 
 **Plus:**
 - Use redux state
@@ -12,7 +12,7 @@
 - The form state does not need to exist in the global store, after all, the form state is independent of other originals.
 - You need to create a unique form of name (const) for redux state and remember about it. If the project is large, it may not be convenient
 
-### Formik
+### Formik (https://jaredpalmer.com/formik/docs/overview)
 
 ** Plus **
 - React official recommendation, it is said that the form can be created painlessly.
